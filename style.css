@@ -1,0 +1,36 @@
+/* Основные стили для всей страницы */
+body {
+    font-family: Arial, sans-serif; /* Шрифт (без засечек) {Link: школыw3 https://www.schoolsw3.com/css/css_font_websafe.php} */
+    background-color: #f4f4f4; /* Светло-серый фон [1] */
+    color: #333; /* Темный цвет текста */
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Стилизация заголовка */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+/* Стилизация контейнера */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px; /* Закругленные углы */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Стилизация ссылок */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Подчеркивание при наведении */
+}
+
