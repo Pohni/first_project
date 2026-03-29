@@ -18,7 +18,7 @@ h1 {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background: #fff;
+    background: grey;
     padding: 20px;
     border-radius: 8px; /* Закругленные углы */
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
