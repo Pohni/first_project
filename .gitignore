@@ -1,0 +1,5 @@
+jopu
+jopu2
+*.log
+logs/*
+!rare_critical_logs.log
